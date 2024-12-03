@@ -1,2 +1,1 @@
-# Pose_Estimation_Custom_Model
-Custom quantizes models for pose estimation
+epoch = 21 gives highest accuracy without risk of overfitting.
